@@ -66,3 +66,60 @@ a:hover{
     color: #3cb371;
     text-decoration: underline;
 }
+
+
+.new-article {
+    margin-bottom: 20px;
+    border: 1px solid #3cb371;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.new-article a {
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
+
+.new-article img {
+    width: 180px;
+    height: auto;
+    object-fit: cover;
+}
+
+.article-text {
+    padding: 15px;
+}
+
+.article-text h3 {
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.article-text p {
+    font-size: 14px;
+    color: #cccccc;
+}
+
+
+
+
+p.xiaomi img{
+    width: 50%;
+    height: 50%;
+}
+
+.HyperOS{
+    width: 20%;
+    height: auto;
+}
+
+.quest{
+    width: 60%;
+    height: auto;
+}
+
+.race{
+    width: 50%;
+    height: auto;
+}
